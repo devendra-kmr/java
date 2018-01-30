@@ -1,4 +1,4 @@
-package core;
+package com.devendra.sample;
 
 public class Demo {
 	
@@ -21,4 +21,3 @@ public class Demo {
 }
 
 
-// Output:   Long Method
