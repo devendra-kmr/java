@@ -13,7 +13,6 @@ public class Child extends Parent {
 		System.out.println("Child");
 	}
 	
-	
 	public static void main(String[] args) {
 		Parent p=new Child();
 		p.test();   // ---> Create method 'test()'  in type Parent
