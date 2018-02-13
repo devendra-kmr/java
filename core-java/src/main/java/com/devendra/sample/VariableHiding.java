@@ -14,7 +14,6 @@ public class VariableHiding extends ParentVariableHiding {
 		ParentVariableHiding v=new VariableHiding();
 		System.out.println(v.str);
 	}
-
 }
 
 /*OUTPUT:
