@@ -18,6 +18,7 @@ public class Stream_MapToList {
                 .map(e -> new Employee(e.getKey(), e.getValue())).collect(Collectors.toList());
         list.forEach(l -> System.out.println("Id: "+ l.getId()+", Name: "+ l.getName()));
     }
+    
 }
 
 
