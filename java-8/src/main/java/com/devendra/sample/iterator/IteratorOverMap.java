@@ -14,7 +14,6 @@ public class IteratorOverMap {
         countryMap.put("4", "Japan");
         countryMap.put("5", "Rasia");
 
-
         countryMap.forEach((key,value)->{
             System.out.println(key);
             System.out.println(value);
