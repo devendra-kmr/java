@@ -7,7 +7,6 @@ public class LambdaAndMethodReferenceSample{
         public static void main(String args[]) {
 
             LambdaAndMethodReferenceSample lamrs = new LambdaAndMethodReferenceSample();
-
             ArrayList<String> personList = new ArrayList<>();
             personList.add("devendra");
             personList.add("akanksha");
